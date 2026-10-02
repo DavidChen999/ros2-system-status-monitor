@@ -1,0 +1,8 @@
+builtin_interfaces/Time timestamp
+string hostname
+float32 cpu_usage_percent
+float32 memory_usage_percent
+uint64 memory_total_bytes
+uint64 memory_available_bytes
+uint64 network_rx_bytes
+uint64 network_tx_bytes
